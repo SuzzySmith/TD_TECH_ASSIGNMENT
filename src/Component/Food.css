@@ -1,0 +1,67 @@
+/* ----------SEARCHBAR ------------- */
+.searchbar {
+    background-color: #ED7227;
+}
+
+/* ---------- TOPBAR ------------- */
+.topbar {
+    background-color: #ED7227;
+    height: 60px;
+}
+
+/* ---------- FOOD ------------- */
+
+.food-card {
+    width: 25rem;
+}
+
+.closed {
+    background-color: red;
+    position: absolute;
+    left: 13;
+    top: 12;
+}
+
+picture {
+    height: 125px;
+}
+.title {
+    width: 250px;
+}
+.restaurant-name i {
+    color: #A8A8A8;
+}
+
+.restaurant-name {
+    color: #A8A8A8;
+}
+.rating {
+    height: 40px;
+    border-radius: 5px;
+}
+
+.rating .rateicon {
+    color: #ED7227;
+}
+
+.time i {
+    color: #A8A8A8;
+}
+
+.add-to-cart {
+    position: absolute;
+    right: 0;
+    /* bottom: -10; */
+}
+
+ .add-to-cart-border {
+    background-color: #ED7227;
+    height: 48px;
+    width: 63px;
+    border-radius: 150px 0px 20px 0px;
+    margin-right: -8px;
+}
+
+.add-to-cart .add-to-cart-border i {
+    color: white;
+}
